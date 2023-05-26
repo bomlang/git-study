@@ -1,2 +1,2 @@
 # git-study
-git practice
+git clone function practice.
